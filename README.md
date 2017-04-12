@@ -3,9 +3,6 @@
 > vue2.0、vuex、vue-router、axios、webpack、eslint、better-scroll
 
 
-在我的博客中写了一些关于此项目遇到的一些坑和建议：
-
-[https://my.oschina.net/keysITer/blog/834287](https://my.oschina.net/keysITer/blog/834287)
 
 
 ## 演示
